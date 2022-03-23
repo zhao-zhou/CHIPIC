@@ -1,12 +1,12 @@
-/*声明*/
-> 该仓库只用于记录CHIPIC文档
-## Bug修护文档
-## 新增功能文档
+##澹版槑
+> 璇ヤ粨搴撳彧鐢ㄤ簬璁板綍CHIPIC鏂囨。
+  **Bug淇姢鏂囨。**
+  **鏂板鍔熻兘鏂囨。**
 
 
-/*软件介绍*/
-> 软件官网下载：http://chipiclab.com/
+##杞欢浠嬬粛
+> 杞欢瀹樼綉涓嬭浇锛歨ttp://chipiclab.com/
 
-> 软件官方论坛：http://chipiclab.com/web/cn/index.html
+> 杞欢瀹樻柟璁哄潧锛歨ttp://chipiclab.com/web/cn/index.html
 
-> 软件使用说明：UserBook.chm
+> 杞欢浣跨敤璇存槑锛歎serBook.chm
