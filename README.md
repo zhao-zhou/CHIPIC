@@ -6,13 +6,15 @@
 
 > **软件官网：** http://chipiclab.com/web/cn/index.html </br>
 
+> **软件论坛：** http://chipiclab.com/ 
+
 > **软件界面：**  </br>
  ![mainInterface](https://github.com/zhao-zhou/CHIPIC/blob/master/picture/mainInterface.png)
  
  > **示例模型**
 ![mainInterface](https://github.com/zhao-zhou/CHIPIC/blob/master/picture/demo.png)
 
-> **软件论坛：** http://chipiclab.com/ 
+
 
 > **软件使用说明：** UserBook.chm
 
