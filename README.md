@@ -4,6 +4,7 @@
 该软件的优点是采用了图形输入的方式，利用Visual C++及Python语言开发。本软件实现了GUI与CHIPIC引擎的分离，客户端只需要连接远程服务器即可进行模拟。由于本软件采用了图形输入的方式，可以使初学者较快速地掌握PIC模拟方法，若熟悉电磁场与粒子相互作用的PIC模拟方法的基本原理和算法对使用本软件帮助极大。
 
 > 软件官网下载：http://chipiclab.com/
+![mainInterface] (https://github.com/zhao-zhou/CHIPIC/blob/master/picture/mainInterface.png?raw=true)
 
 > 软件官方论坛：http://chipiclab.com/web/cn/index.html
 
